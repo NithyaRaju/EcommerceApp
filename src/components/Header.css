@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.shopping {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.shoppingItems {
+    display: flex;
+    flex-direction: row;
+    margin: 5%;
+}

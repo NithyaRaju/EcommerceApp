@@ -1,0 +1,10 @@
+.homeScreen{
+    display: flex;
+    flex-direction: column;
+    background-color: #1E28320D;
+}
+
+.line{
+     border: 0.1px solid #000 ;
+     margin: 20px 0;
+}

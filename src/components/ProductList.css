@@ -1,0 +1,23 @@
+.productlist{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.productlist ul {
+     display: flex;
+     flex-direction: row;
+}
+
+.product-details {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5%;
+    color: black;
+    list-style-type: none;
+}
+
+.discount-price {
+    color: red;
+}
